@@ -2,7 +2,12 @@ Daftar Resolusi 2019 Mas Anies :
 1. Menyelesaikan Studi
   + Menyelesaikan KP
     * Menyelesaikan Aplikasi
-    * Menyelesaikan Laporan dan Persyaratan Sidang
+      ^ Tema Aplikasi ( Inventori )
+      ^ Deadline 1 Minggu
+    * Menyelesaikan Laporan
+      ^ BAB I sampai BAB III
+    * Persyaratan Sidang
+      ^ Persyaratan Adminitrasi Sidang
   + Menyelesaikan TA 1
     * Mencari TEMA dan Metode yang tepat.
     * Minimal telah menyelesaikan BAB I
